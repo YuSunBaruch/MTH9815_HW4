@@ -1,4 +1,5 @@
 # MTH9815_C++_HW1
+#Team 11: Song, Gaoxian / Sun, Yu
 
 Node, LinkedList, Double LinkedList and Hash Table are wrote in separate files.
 
